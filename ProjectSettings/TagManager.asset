@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CodeLockButton
+  - Pickable2D
+  - Narrator
+  - Ennemy
   layers:
   - Default
   - TransparentFX
@@ -13,9 +17,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Player
+  - Ground
+  - Ennemy
+  - Walls
   - 
   - 
   - 
@@ -40,4 +45,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1711553511
+    locked: 0
+  - name: Terrain
+    uniqueID: 1427838375
+    locked: 0
+  - name: Player
+    uniqueID: 3792948823
     locked: 0

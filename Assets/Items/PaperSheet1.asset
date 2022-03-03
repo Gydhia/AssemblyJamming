@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70fd61746ab51b43bf92ab5fda9a7c3, type: 3}
+  m_Name: PaperSheet1
+  m_EditorClassIdentifier: 
+  name: PaperSheetFirst
+  icon: {fileID: 21300000, guid: b838a63b1ae55a84fb22053e2f05252d, type: 3}
+  type: 0
+  code: 2
